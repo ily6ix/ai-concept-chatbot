@@ -70,6 +70,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-> Built with ❤️ by Goitseone Rakgomo  
-> Geeks4Learning – AI Bootcamp Practical Project
+> Built with <3 by Goitseone Rakgomo  
+> Capaciti AI Bootcamp – AI Bootcamp Practical Project
 
