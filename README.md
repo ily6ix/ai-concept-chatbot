@@ -14,7 +14,7 @@ Welcome to the **AI Concept Chatbot** project! Built with **Voiceflow**, this no
 
 ## 📌 Live Demo
 
-🔗 [Try the Chatbot]([https://your-public-voiceflow-link.com](https://creator.voiceflow.com/prototype/68888b1e14adedd2365851a7)) (replace with actual link)
+🔗 [Try the Chatbot](https://creator.voiceflow.com/prototype/68888b1e14adedd2365851a7)
 
 ## 🗂️ Repository Structure
 
