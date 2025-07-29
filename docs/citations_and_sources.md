@@ -2,7 +2,7 @@
 
 Below is a list of sources used to ensure the chatbot's answers are accurate and grounded in real-world knowledge:
 
-1. AI Bootcamp Handouts (Geeks4Learning)
+1. AI Bootcamp  (CAPACITI)
 2. Google AI Education: https://ai.google/education/
 3. IBM AI Glossary: https://www.ibm.com/cloud/learn/ai-glossary
 4. Coursera AI & NLP Specializations by DeepLearning.AI
