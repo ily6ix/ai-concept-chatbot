@@ -2,74 +2,52 @@
 
 Welcome to the **AI Concept Chatbot** project! Built with **Voiceflow**, this no-code assistant helps learners understand **Artificial Intelligence fundamentals** through interactive conversation.
 
----
+## 🌟 Features
 
-## 🌟 Project Features
+- 🧠 Core AI concept explanations (ML, NLP, LLMs, etc.)
+- 🗣️ Guided flows: "Learn about NLP" & "Explore AI Ethics"
+- 📚 15+ curated Q&A pairs for beginner-friendly learning
+- 🔁 Follow-up handling per topic
+- 🖼️ Multimedia support (diagrams & examples)
+- 📈 Recommends bootcamp-specific learning resources
+- 🔗 Cross-links between concepts
 
-- 🧠 Explains core AI concepts (ML, NLP, Neural Networks, etc.)
-- 🗣️ Two guided conversation flows: "Learn about NLP" and "Explore AI Ethics"
-- 📚 15+ curated Q&A pairs for interactive learning
-- 🔁 Handles follow-up questions on the same topic
-- 📈 Multimedia support (diagrams, examples, use cases)
-- 🧭 Recommends further learning materials and course modules
-- 🔗 Cross-links between related AI topics
+## 📌 Live Demo
 
----
+🔗 [Try the Chatbot](https://your-public-voiceflow-link.com) (replace with actual link)
 
-## 📌 Project Demo
-
-🔗 [**Click here to try the live chatbot**](https://your-public-voiceflow-link.com)
-
----
-
-## 🗂️ Folder Structure
+## 🗂️ Repository Structure
 
 | Folder | Description |
 |--------|-------------|
-| `assets/` | Images and diagrams used in the chatbot |
-| `conversation_flows/` | Markdown documentation of NLP & AI Ethics flows |
-| `data/` | Q&A knowledge base CSV |
-| `docs/` | External sources, course citations, further learning |
-| `voiceflow_project.vf` | Exported Voiceflow project file (for reuse/editing) |
+| `assets/` | Visuals like diagrams and chatbot screenshots |
+| `conversation_flows/` | Markdown files detailing chatbot logic |
+| `data/` | CSV file containing 15+ Q&A training data |
+| `docs/` | Further learning & citation references |
+| `voiceflow_project.vf` | Placeholder for your exported Voiceflow project |
+| `README.md` | Project overview and usage guide |
+| `LICENSE` | MIT License info |
+| `DEPLOYMENT.md` | Instructions to deploy via Voiceflow |
 
----
+## 🧠 Topics Covered
 
-## 📚 Topics Covered
-
-- What is AI?
-- What is Machine Learning?
-- What is NLP?
-- Neural Networks & Deep Learning
-- Computer Vision
-- AI vs ML vs Deep Learning
-- Real-world applications in finance, healthcare, education
-- AI Ethics, Bias & Fairness
-
----
+- AI, ML, NLP, Neural Networks, LLMs, Computer Vision
+- Differences between AI, ML & Deep Learning
+- Real-world AI applications (finance, education, healthcare)
+- AI ethics: fairness, bias, transparency
 
 ## 🧪 Tech Stack
 
-| Tool      | Purpose                     |
-|-----------|-----------------------------|
-| Voiceflow | No-code chatbot builder     |
-| Markdown  | Documentation               |
-| Canva     | Diagrams & visuals          |
-| GitHub    | Version control & showcase  |
-
----
-
-## 📖 Learn More
-
-Find helpful course links and further resources in [`/docs/further_learning_links.md`](docs/further_learning_links.md).
-
----
+| Tool | Purpose |
+|------|---------|
+| Voiceflow | No-code chatbot builder |
+| Markdown | Documentation |
+| Canva | Visuals |
+| GitHub | Version control & portfolio showcase |
 
 ## 📝 License
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-> Built with <3 by Goitseone Rakgomo  
-> Capaciti AI Bootcamp – AI Bootcamp Practical Project
-
+> Built with ❤️ by Goitseone Rakgomo
+> Geeks4Learning AI Bootcamp 2025

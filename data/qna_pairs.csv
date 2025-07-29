@@ -1,0 +1,15 @@
+Question,Answer
+What is Artificial Intelligence?,"AI is the simulation of human intelligence by machines, enabling them to perform tasks such as learning, reasoning, and problem-solving."
+What is Machine Learning?,Machine Learning is a subset of AI that enables systems to learn from data and improve over time without being explicitly programmed.
+What is NLP?,"Natural Language Processing (NLP) is a field of AI that helps machines understand, interpret, and generate human language."
+What is a Neural Network?,"A neural network is a computing system inspired by the human brain's structure, used to detect patterns and relationships in data."
+What is a Large Language Model (LLM)?,"LLMs are AI models trained on massive text datasets to understand and generate human-like text, like ChatGPT or BERT."
+What is Computer Vision?,Computer Vision enables machines to interpret and process visual information like images and videos.
+"What is the difference between AI, ML, and Deep Learning?",AI is the umbrella term. ML is a subset that enables learning from data. Deep Learning is a further subset that uses neural networks with many layers.
+How is deep learning different from machine learning?,"Deep learning uses layered neural networks and requires large data sets, while traditional ML relies on structured data and simpler algorithms."
+How is AI used in healthcare?,"AI helps in diagnostics, medical imaging, drug discovery, and personalizing treatment plans."
+How is AI used in finance?,"AI powers fraud detection, algorithmic trading, and customer service bots."
+What are AI use cases in education?,"AI helps in adaptive learning, automated grading, and intelligent tutoring systems."
+What is ethical AI?,"Ethical AI ensures fairness, transparency, accountability, and privacy in AI systems."
+What are AI biases?,AI bias occurs when an AI system reflects or amplifies unfair prejudices from its training data.
+How can AI bias be reduced?,"By using diverse training data, performing audits, and ensuring human oversight in decision-making."
